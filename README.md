@@ -1,0 +1,1 @@
+Solves a maze represented as a 2d matrix. Practice for matrix traversal and Python/pytest.
