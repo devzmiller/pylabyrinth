@@ -1,5 +1,4 @@
 {
-  "maze_test.py::test_read_maze": true,
   "spec/maze_test.py": true,
   "spec/maze_test.py::test_read_maze": true,
   "test_test.py::test_answer": true
